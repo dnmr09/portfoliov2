@@ -52,13 +52,13 @@ export const projects = [
   },
   {
     id: "project-3",
-    title: "Siklab",
+    title: "SkillBridge",
     short: "Modern Interface Design",
-    full: "An infographic project using a modern interface style to present information clearly.",
-    tech: ["Infographic", "Interface Design"],
+    full: "An Integrated Internship Management and Student Progress Monitoring System is a proposed digital platform designed to streamline, centralize, and automate the internship workflow for students, academic coordinators, and host supervisors.",
+    tech: ["Web Design", "UI/UX Design", "Web Development"],
     bg: "linear-gradient(135deg,#0d1e35,#38b6ff)",
     image: "/images/skillbridge.jpg",
-    live: "",
+    live: "https://skillbridgeversion1.vercel.app/",
   },
 ];
 
